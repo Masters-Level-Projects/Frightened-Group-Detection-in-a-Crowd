@@ -7,3 +7,5 @@ For full training purpose the files please execute the following files.
 run this, otherwise, the other executable functions can be executed for testing purposes.
 2) groupDetection() - Asks for an image and returns sub-groups and the class labels.
 3) checkTestingAccuracy()
+
+Please note that the code for spectral clustering was taken from: 
